@@ -1,2 +1,2 @@
 # portfolio-api
-Portfolio api
+Sample Portfolio api
